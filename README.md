@@ -1,6 +1,6 @@
 <!--
 README.md Profile
-Version: 1.0
+Version: 1.1
 - Work In Progress for other things to be implemented
 -->
 
@@ -10,7 +10,7 @@ Version: 1.0
 * 🌱 I'm currently learning Rust, Flutter/Dart and Python
 * 🔭 Exploring Google Cloud, AWS and Docker/Kubernetes for its implementation
 * 🔬 Learning the System Design Concept(Reliability, Scability and Maintainability of an application) and Application Security
-* 👯 I want to learn how contribute on the open source community. 
+* 👯 I want to learn and contribute on the open source community ヽ(・∀・)ﾉ
 * ☕️ Coffee and Code
 
 ## 🛠️ Tech Stack
